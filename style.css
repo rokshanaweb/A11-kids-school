@@ -241,7 +241,7 @@ line-height: 30px; /* 150% */
 
 .card-content {
     padding: 80px 0;
-    background: url('../assets/bg.png') 50% / cover no-repeat;
+    background: url('./assets/bg.png') 50% / cover no-repeat;
 }
 
 
@@ -280,7 +280,7 @@ line-height: 30px; /* 150% */
 
 .Stories {
    padding: 80px 0;
-    background: url('../assets/bg.png'), linear-gradient(0deg, rgba(254, 163, 1, 0.30) 0%, rgba(255, 255, 255, 0.30) 100%);
+    background: url('./assets/bg.png'), linear-gradient(0deg, rgba(254, 163, 1, 0.30) 0%, rgba(255, 255, 255, 0.30) 100%);
 }
 .Stories img {
     width: 100%;
