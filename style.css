@@ -584,7 +584,7 @@ footer {
  }
  .banner-img img  {
     max-width: 100%;
-    padding: 10px;
+   
  }
 
 
@@ -633,13 +633,18 @@ footer {
     .left-content-date {
         position: absolute;
         left: 10px;
-        bottom: -25px;
-       background: #95B226;
-      color: #FFF;
-      font-size: 15.339px;
-     font-style: normal;
+        bottom: -15px;
+       
+        width: 103.909px;
+        height: 22.833px;
+        padding: 5.708px 11.24px 6.279px 11.416px;
+       
+      font-size: 9.133px;
+    font-style: normal;
      font-weight: 500;
-     line-height: 28.761px; 
+    line-height: 17.125px; /* 187.5% */
+   
+       
     
     
     }
